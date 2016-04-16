@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.2.4'
 
 gem 'rails', '4.2.6'
-gem 'bcrypt',                  '3.1.7'
+gem 'bcrypt',                  '3.1.11'
 gem 'faker',                   '1.4.2'
 gem 'carrierwave',             '0.10.0'
 gem 'mini_magick',             '3.8.0'
